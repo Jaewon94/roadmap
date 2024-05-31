@@ -1,6 +1,6 @@
 package com.jaewon.roadmap02.beandefinition;
 
-import com.jaewon.roadmap02.config.AppConfig;
+import com.jaewon.roadmap02.AppConfig;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.config.BeanDefinition;

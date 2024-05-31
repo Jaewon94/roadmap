@@ -1,6 +1,6 @@
 package com.jaewon.roadmap02.order;
 
-import com.jaewon.roadmap02.config.AppConfig;
+import com.jaewon.roadmap02.AppConfig;
 import com.jaewon.roadmap02.member.Grade;
 import com.jaewon.roadmap02.member.Member;
 import com.jaewon.roadmap02.member.MemberService;

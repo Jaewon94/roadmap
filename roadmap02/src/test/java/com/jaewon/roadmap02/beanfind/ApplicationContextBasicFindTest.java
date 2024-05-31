@@ -1,6 +1,6 @@
 package com.jaewon.roadmap02.beanfind;
 
-import com.jaewon.roadmap02.config.AppConfig;
+import com.jaewon.roadmap02.AppConfig;
 import com.jaewon.roadmap02.member.MemberService;
 import com.jaewon.roadmap02.member.MemberServiceImpl;
 import org.junit.jupiter.api.Assertions;

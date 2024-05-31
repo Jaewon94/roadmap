@@ -1,4 +1,4 @@
-package com.jaewon.roadmap02.config;
+package com.jaewon.roadmap02;
 
 import com.jaewon.roadmap02.discount.DiscountPolicy;
 import com.jaewon.roadmap02.discount.RateDiscountPolicy;

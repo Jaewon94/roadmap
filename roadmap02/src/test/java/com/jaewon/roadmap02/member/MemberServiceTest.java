@@ -1,11 +1,9 @@
 package com.jaewon.roadmap02.member;
 
-import com.jaewon.roadmap02.config.AppConfig;
+import com.jaewon.roadmap02.AppConfig;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class MemberServiceTest {
 

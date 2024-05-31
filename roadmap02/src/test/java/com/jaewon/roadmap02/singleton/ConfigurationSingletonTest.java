@@ -1,10 +1,9 @@
 package com.jaewon.roadmap02.singleton;
 
-import com.jaewon.roadmap02.config.AppConfig;
+import com.jaewon.roadmap02.AppConfig;
 import com.jaewon.roadmap02.member.MemberRepository;
 import com.jaewon.roadmap02.member.MemberServiceImpl;
 import com.jaewon.roadmap02.order.OrderServiceImpl;
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

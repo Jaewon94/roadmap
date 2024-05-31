@@ -1,16 +1,12 @@
 package com.jaewon.roadmap02;
 
-import com.jaewon.roadmap02.config.AppConfig;
 import com.jaewon.roadmap02.member.Grade;
 import com.jaewon.roadmap02.member.Member;
 import com.jaewon.roadmap02.member.MemberService;
-import com.jaewon.roadmap02.member.MemberServiceImpl;
 import com.jaewon.roadmap02.order.Order;
 import com.jaewon.roadmap02.order.OrderService;
-import com.jaewon.roadmap02.order.OrderServiceImpl;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class OrderApp {
 
