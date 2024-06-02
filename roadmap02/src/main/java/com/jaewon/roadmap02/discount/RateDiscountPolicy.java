@@ -1,9 +1,12 @@
 package com.jaewon.roadmap02.discount;
 
+import com.jaewon.roadmap02.annotation.MainDiscountPolicy;
 import com.jaewon.roadmap02.member.Grade;
 import com.jaewon.roadmap02.member.Member;
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
+@MainDiscountPolicy
 @Component
 public class RateDiscountPolicy implements DiscountPolicy {
 
